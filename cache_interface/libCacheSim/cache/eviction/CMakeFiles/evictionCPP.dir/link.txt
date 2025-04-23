@@ -1,0 +1,2 @@
+/usr/bin/ar qc libevictionCPP.a CMakeFiles/evictionCPP.dir/cpp/LFU.cpp.o CMakeFiles/evictionCPP.dir/cpp/GDSF.cpp.o CMakeFiles/evictionCPP.dir/LHD/lhd.cpp.o CMakeFiles/evictionCPP.dir/LHD/LHD_Interface.cpp.o
+/usr/bin/ranlib libevictionCPP.a

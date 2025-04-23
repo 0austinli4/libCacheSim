@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprofiler.a CMakeFiles/profiler.dir/dist.c.o CMakeFiles/profiler.dir/profilerLRU.c.o CMakeFiles/profiler.dir/simulator.c.o
+/usr/bin/ranlib libprofiler.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libds_hash.a CMakeFiles/ds_hash.dir/murmur3.c.o
+/usr/bin/ranlib libds_hash.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcachelib.a CMakeFiles/cachelib.dir/cache.c.o CMakeFiles/cachelib.dir/cacheObj.c.o
+/usr/bin/ranlib libcachelib.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libadmissionC.a CMakeFiles/admissionC.dir/prob.c.o CMakeFiles/admissionC.dir/size.c.o CMakeFiles/admissionC.dir/bloomfilter.c.o
+/usr/bin/ranlib libadmissionC.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libutils.a CMakeFiles/utils.dir/logging.c.o CMakeFiles/utils.dir/mymath.c.o CMakeFiles/utils.dir/mystr.c.o CMakeFiles/utils.dir/mysys.c.o
+/usr/bin/ranlib libutils.a

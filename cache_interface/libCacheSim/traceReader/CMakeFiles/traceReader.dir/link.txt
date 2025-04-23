@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtraceReader.a CMakeFiles/traceReader.dir/generalReader/binary.c.o CMakeFiles/traceReader.dir/generalReader/csv.c.o CMakeFiles/traceReader.dir/generalReader/txt.c.o CMakeFiles/traceReader.dir/generalReader/libcsv.c.o CMakeFiles/traceReader.dir/generalReader/lcs.c.o CMakeFiles/traceReader.dir/reader.c.o CMakeFiles/traceReader.dir/sampling/spatial.c.o CMakeFiles/traceReader.dir/sampling/temporal.c.o CMakeFiles/traceReader.dir/generalReader/zstdReader.c.o
+/usr/bin/ranlib libtraceReader.a

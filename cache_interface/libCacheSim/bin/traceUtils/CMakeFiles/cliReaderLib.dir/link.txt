@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcliReaderLib.a CMakeFiles/cliReaderLib.dir/__/cli_reader_utils.c.o
+/usr/bin/ranlib libcliReaderLib.a

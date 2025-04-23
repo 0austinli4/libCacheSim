@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtraceOneHitLib.a CMakeFiles/traceOneHitLib.dir/oneHit/oneHit.cpp.o
+/usr/bin/ranlib libtraceOneHitLib.a
